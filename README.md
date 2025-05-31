@@ -84,3 +84,7 @@ Add web-based interface using Flask or Streamlit.
 Support for summarizing content from URLs or PDFs.
 
 Multilingual summarization support.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/40cdc548-1ce7-43bb-bbc0-a6f3c3953267)
